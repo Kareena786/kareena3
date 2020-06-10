@@ -1,0 +1,5 @@
+mylist=[10,20,30,40,50]
+print ("The length of list is:",len(mylist))
+print ("The maximum of list is:",max(mylist))
+print("The minimum of list is:",min (mylist))
+print ("The sum of all the elements of the list is:",sum(mylist))
