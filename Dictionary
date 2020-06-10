@@ -1,0 +1,4 @@
+my_dictionary={1:'AAA',2:'BBB',3:'CCC'}
+print (my_dictionary)
+del my_dictionary {'AAA'}
+print ( my_dictionary)
